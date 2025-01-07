@@ -18,6 +18,7 @@ Mainly a Front-End  Developer.
 
 
 Education:
+
 Engineer’s degree computer science (Software Engineering) 2021
 
 Bachelor ’s degree business computing 2018
